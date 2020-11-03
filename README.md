@@ -92,3 +92,4 @@ See [CONTRIBUTING.md](https://github.com/Armour/vue-typescript-admin-template/bl
 [MIT License](https://github.com/Armour/vue-typescript-admin-template/blob/master/LICENSE)
 "# proj" 
 "# pr" 
+"# project" 
